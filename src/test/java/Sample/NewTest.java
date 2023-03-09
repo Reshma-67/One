@@ -10,6 +10,7 @@ public class NewTest
 		System.out.println("new");
 		//pulled 1
 		//pushed 1
+		//pulled 2
 	}
 
 }
