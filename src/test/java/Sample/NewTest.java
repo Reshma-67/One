@@ -8,6 +8,7 @@ public class NewTest
 	public void new1()
 	{
 		System.out.println("new");
+		//pulled 1
 	}
 
 }
